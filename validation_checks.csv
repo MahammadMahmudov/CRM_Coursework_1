@@ -1,0 +1,14 @@
+Check,Result
+Duplicate trading dates,0
+"Missing values in Adj Close, Close and Volume",0
+Prices zero or below,0
+Volume zero or below,0
+Share and benchmark week labels identical,True
+Fewest aligned weeks for any share,207
+Most aligned weeks for any share,207
+Sessions in the 60-session window,60
+Every day in window has a 20-day baseline,True
+Frequency and Monetary use the same dates,True
+Shares with no busy day (R missing),0
+Shares with a busy day on the observation date (R = 0),0
+Smallest Recency among shares with F = 0 (window is 85 days),91

@@ -1,0 +1,18 @@
+Ticker,Missing days,First date with data,Reason,Rule,Zero-volume days,Last zero-volume date
+FDXF,1005,,No price data in study period,Keep only companies with complete data for 2021-2024,,
+Q,1005,,No price data in study period,Keep only companies with complete data for 2021-2024,,
+HONA,1005,,No price data in study period,Keep only companies with complete data for 2021-2024,,
+SNDK,1005,,No price data in study period,Keep only companies with complete data for 2021-2024,,
+VYLR,1005,,No price data in study period,Keep only companies with complete data for 2021-2024,,
+GEV,812,2024-03-27,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+SOLV,811,2024-03-26,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+RDDT,808,2024-03-21,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+VLTO,692,2023-10-04,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+GEHC,492,2022-12-15,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+CEG,263,2022-01-19,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+HOOD,143,2021-07-29,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+APP,70,2021-04-15,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+COIN,69,2021-04-14,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+EXE,26,2021-02-10,Started trading after study start,Keep only companies with complete data for 2021-2024,,
+SW,0,2021-01-04,Zero volume on many days: no reliable trading data before the last zero-volume date,Keep only companies with reliable trading data for 2021-2024,424.0,2024-07-05
+FERG,0,2021-01-04,Zero volume on many days: no reliable trading data before the last zero-volume date,Keep only companies with reliable trading data for 2021-2024,27.0,2021-03-05

@@ -1,0 +1,5 @@
+Step,Excluded,Remaining,Tickers
+S&P 500 tickers from Wikipedia,0,503,
+No price data in study period,5,498,"['FDXF', 'Q', 'HONA', 'SNDK', 'VYLR']"
+Started trading after study start,10,488,"['GEV', 'SOLV', 'RDDT', 'VLTO', 'GEHC', 'CEG', 'HOOD', 'APP', 'COIN', 'EXE']"
+Zero volume on many days: no reliable trading data before the last zero-volume date,2,486,"['SW', 'FERG']"
